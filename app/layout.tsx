@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
+    default: "Will Helliwell's Portfolio",
     template: "%s | chronark.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Senior Full-stack Software Developer",
   openGraph: {
-    title: "chronark.com",
+    title: "Will Helliwell",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Senior Full-stack Software Developer",
+    url: "https://portfolio-nxr4gtcff-will-helliwell.vercel.app/",
+    siteName: "Will Helliwell's Portfolio",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://avatars.githubusercontent.com/u/68912961?v=4",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Will Helliwell's Portfolio",
     card: "summary_large_image",
   },
   icons: {
